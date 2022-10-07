@@ -253,13 +253,14 @@ letter-spacing: 0.03em;
     letter-spacing: 0.03em;
 }
 
+.footer-address .footer-contact {
+    color: #FFFFFF99;
+}
+
 .footer-address :hover,
 .footer-address :focus {
     color: var(--accent-color);
 }
 
-.footer-address .footer-contact {
-    color: #FFFFFF99; 
-}
 
 
